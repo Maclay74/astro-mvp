@@ -1,0 +1,24 @@
+{
+  "name": "eminent-escape",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "i18n": "astro-i18next generate",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^2.1.0",
+    "@nanostores/react": "^0.4.1",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "astro": "^2.0.18",
+    "astro-i18next": "^1.0.0-beta.21",
+    "nanostores": "^0.7.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
