@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import { setName } from '../noteStore';
+import { setName } from '../store/nameStore';
 
 export const ChangeName = () => {
 
